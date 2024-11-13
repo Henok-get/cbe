@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "studentId": "ST001",
+    "amount": 1500,
+    "paymentDate": "2024-01-15",
+    "description": "tution Fee",
+    "status": "paid"
+  },
+  {
+    "id": "2",
+    "studentId": "ST003",
+    "amount": 250,
+    "paymentDate": "2024-01-16",
+    "description": "Laboratory Fee",
+    "status": "paid"
+  }
+]
